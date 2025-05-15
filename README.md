@@ -1,5 +1,5 @@
 <a href="https://harryschlorke.com" target="_blank" rel="noopener noreferrer">
-  <img src="https://github.com/Schlorke/EasyRent/blob/main/assets/img/Harry-Banner.png" alt="GitHub Banner" width="100%" />
+  <img src="./Harry-Banner.png" alt="GitHub Banner" width="100%" />
 </a>
 
 
